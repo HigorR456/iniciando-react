@@ -6,6 +6,7 @@ function App() {
     <Tweet text="Tweet 1"/>
     <Tweet text="Tweet 2"/>
     <Tweet text="Tweet 3"/>
+    <Tweet text="Tweet 4"/>
   </p>
   )
 }
